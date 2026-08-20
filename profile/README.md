@@ -2,7 +2,7 @@
 <!-- Logotipo de la organización -->
 <div align='center'>
     <a href='https://github.com/hunterprojectbc'>
-        <img src='https://raw.githubusercontent.com/hunterprojectbc/HunterWebsite/7556056108c3129b6920ede2c2594cbfa6439f65/nevermore/public/images/icon.svg?token=BSJMHYND4A3TRX5U5F7TF7LKQ2OG4' width='35%'
+        <img src='https://github.com/hunterprojectbc/HunterWebsite/blob/main/nevermore/public/images/icon.svg' width='35%'
             alt='¿Quién soy yo para juzgar caminos ajenos? Si yo mismo camino como un hombre imperfecto.' />
     </a>
 </div>
