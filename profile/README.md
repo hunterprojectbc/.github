@@ -2,7 +2,7 @@
 <!-- Logotipo de la organización -->
 <div align='center'>
     <a href='https://github.com/hunterprojectbc'>
-        <img src='https://www.pngkey.com/png/full/182-1822949_bloodborne-the-old-hunters-two-column-03-ps4.png' width='70%'
+        <img src='https://raw.githubusercontent.com/hunterprojectbc/HunterWebsite/7556056108c3129b6920ede2c2594cbfa6439f65/nevermore/public/images/icon.svg?token=BSJMHYND4A3TRX5U5F7TF7LKQ2OG4' width='35%'
             alt='¿Quién soy yo para juzgar caminos ajenos? Si yo mismo camino como un hombre imperfecto.' />
     </a>
 </div>
@@ -24,24 +24,42 @@
 <!-- Introducción al proyecto -->
 ## <samp>Introducción</samp>
 <i>
-    <b>Sistema de Gestión & Diagnóstico de Riesgos Ergonómicos (Hunter Project)</b>, es un sistema integral desarrollado para el cumplimiento de la <b>NOM-036-1-STPS-2018</b> que automatiza la evaluación ergonómica mediante un módulo de Machine Learning. El ecosistema procesa y analiza video en tiempo real a través de aplicaciones web y móviles conectadas a una arquitectura backend centralizada.
+    <b>Sistema de Gestión & Diagnóstico de Riesgos Ergonómicos (Hunter Project)</b>, es un sistema integral desarrollado para el cumplimiento de la <b>NOM-036-1-STPS-2018</b> que automatiza la evaluación ergonómica mediante     un pipeline de detección, validación & generación de reportes. El Backend procesa y analiza videos a través de Runpod, estos son proporcionados desde las aplicaciones web y móviles.
 </i>
 
-<br>
+<br><br>
 
 
-<!-- Funccionamiento del sistema -->
-## <samp>Funcionamiento</samp>
+<!-- Sistemas desarrollados -->
+## <samp>Sistema</samp>
 
 #### MOBILE APP
 > [!NOTE]
 > Pendiente...
 
+<i>― Aplicación desarrollada por: <a href='https://github.com/Juanita456'><b>Alma Domínguez</b></a></i>
+
 #
 
 #### WEBSITE APP
 > [!NOTE]
+> Haz clic en la imagen para acceder.
+<div align='center'>
+    <a href='https://nevermore-sigma.vercel.app/login'>
+        <img src='https://github.com/user-attachments/assets/4b14389f-a1cb-46db-8b37-b7d7d5f8b44d'
+            width='1584' height='956' alt='Enlace al prototipo final desplegado en Vercel.' />
+    </a>
+</div>
+
+<i>― Aplicación desarrollada por: <a href='https://github.com/ed-of-astora'><b>Ed Rubio</b></a></i>
+
+#
+
+#### BACKEND & PIPELINE DE EVALUACIONES
+> [!NOTE]
 > Pendiente...
+
+<i>― Sistema desarrollado por: <a href='https://github.com/Camcapxi'><b>Jordan Vidaña</b></a></i>
 
 <br>
 
