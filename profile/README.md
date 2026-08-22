@@ -2,12 +2,10 @@
 <!-- Logotipo de la organización -->
 <div align='center'>
     <a href='https://github.com/hunterprojectbc'>
-        <img src='https://github.com/hunterprojectbc/HunterWebsite/blob/main/nevermore/public/images/icon.svg' width='35%'
+        <img src='./assets/icon.svg' width='35%'
             alt='¿Quién soy yo para juzgar caminos ajenos? Si yo mismo camino como un hombre imperfecto.' />
     </a>
 </div>
-
-<!-- TODO: Añadir eslogan (pendiente de definir) -->
 
 <br>
 
