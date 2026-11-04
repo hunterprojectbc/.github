@@ -1,13 +1,14 @@
+<br><br>
 
 <!-- Logotipo de la organización -->
 <div align='center'>
     <a href='https://github.com/hunterprojectbc'>
-        <img src='./assets/icon.svg' width='35%'
+        <img src='./assets/extended-icon.webp' width='75%'
             alt='¿Quién soy yo para juzgar caminos ajenos? Si yo mismo camino como un hombre imperfecto.' />
     </a>
 </div>
 
-<br>
+<br><br>
 
 <!-- Información del proyecto -->
 <div align='center'>
